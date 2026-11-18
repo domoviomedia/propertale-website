@@ -87,7 +87,7 @@ WORDMARK = (SRC / "assets/img/wortmarke.svg").read_text("utf-8").strip().replace
 CITIES = ["Frankfurt am Main", "Darmstadt", "Offenbach am Main", "Hanau", "Wiesbaden", "Mainz", "Aschaffenburg", "Groß-Umstadt"]
 DISTRICTS = ["Landkreis Darmstadt-Dieburg", "Odenwaldkreis", "Main-Taunus-Kreis", "Hochtaunuskreis", "Landkreis Aschaffenburg"]
 SERVICES = ["Immobilienfotografie", "Immobilienvideo", "Drohnenaufnahmen", "Luftbilder", "360°-Rundgang",
-            "Virtuelles Homestaging", "Dämmerungsaufnahmen", "Social-Media-Reels für Immobilien", "Exposé-Fotos"]
+            "Virtuelles Homestaging", "Möbel digital entfernen", "Dämmerungsaufnahmen", "Social-Media-Reels für Immobilien", "Exposé-Fotos"]
 DESCRIPTION = ("Propertale ist Immobilienfotografie von Fatih Gökce aus Groß-Umstadt: Fotos, Video und "
                "Drohnenaufnahmen für Makler, Bauträger und private Eigentümer im Rhein-Main-Gebiet, "
                "mit festen Preisen und Lieferung per Downloadlink in 3 Werktagen.")

@@ -164,6 +164,15 @@
  {
   "from": false,
   "group": "Zusatzleistungen",
+  "id": "6EE9D86A-1D51-480B-86A3-65810FE13840",
+  "price": 20,
+  "text": "Möblierung aus Innenaufnahmen digital entfernt, Raum leer dargestellt",
+  "title": "Möbel entfernen (digital)",
+  "unit": "Bild"
+ },
+ {
+  "from": false,
+  "group": "Zusatzleistungen",
   "id": "F9C08A6A-0B1E-4A54-9421-6A57C8EC8830",
   "price": 100,
   "text": "",
